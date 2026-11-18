@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f43,100:2f81f7&height=170&section=header&text=Misbah%20Hunnasik&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Teknik%20Informatika%20%C2%B7%20ISB%20Atma%20Luhur%2C%20Pangkalpinang&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f43,100:2f81f7&height=170&section=header&text=Misbah%20Hunnasik&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20Game%20Developer&descSize=16&descAlignY=58" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2F81F7&vCenter=true&width=380&height=30&lines=Flutter+%26+Mobile+Developer;Web+App+Builder;Game+Dev+Enthusiast+(Godot))](https://github.com/misbah2121)
 
-- 🎓 Mahasiswa **Teknik Informatika**, ISB Atma Luhur
+- 💻 Developer **mobile, web, dan game**
 - 📍 Pangkalpinang, Bangka Belitung
 - 🎮 Sedang membangun game **Modern Farm** di Godot 4
 - 📱 Suka membuat aplikasi mobile, web app, dan game
