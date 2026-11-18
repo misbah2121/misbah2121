@@ -73,8 +73,11 @@ Game farming pixel art 2D dengan 23 phase pengembangan.<br>
 
 ### 📊 Statistik GitHub
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><img src="metrics-profile.svg" alt="Profil GitHub" width="100%"/></td>
+<td width="50%" valign="top"><img src="metrics-activity.svg" alt="Aktivitas GitHub" width="100%"/></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f43,100:2f81f7&height=100&section=footer" width="100%"/>
