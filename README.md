@@ -56,16 +56,16 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Life Manager](https://github.com/misbah2121/UAS-DFM-LIFEMANAGER)**<br>
-Aplikasi pengelola tugas, keuangan, kesehatan, dan belanja.<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+**[Dashboard Laporan Gangguan](https://github.com/misbah2121/dashboard-laporan-gangguan)**<br>
+Template dashboard monitoring gangguan dengan Google Apps Script dan Google Sheets. Gratis, tanpa server. [Coba demo](https://misbah2121.github.io/dashboard-laporan-gangguan/)<br>
+<img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-**[Modern Farm](https://github.com/misbah2121/ModernFarm)**<br>
-Game farming pixel art 2D dengan 23 phase pengembangan.<br>
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/> <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white"/>
+**[Life Manager](https://github.com/misbah2121/UAS-DFM-LIFEMANAGER)**<br>
+Aplikasi pengelola tugas, keuangan, kesehatan, dan belanja.<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
 </td>
 </tr>
