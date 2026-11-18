@@ -11,7 +11,7 @@
 - 💻 Developer **mobile, web, dan game**
 - 📍 Pangkalpinang, Bangka Belitung
 - 🎮 Sedang membangun game **Modern Farm** di Godot 4
-- 📱 Suka membuat aplikasi mobile, web app, dan game
+- 🤝 Terbuka untuk kolaborasi proyek
 
 </td>
 <td width="50%" valign="top">
