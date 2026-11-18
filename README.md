@@ -55,6 +55,18 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/misbah2121/godot-farming-kit"><img src="https://raw.githubusercontent.com/misbah2121/godot-farming-kit/main/demo.gif" width="100%" alt="Godot Farming Kit"/></a>
+</td>
+<td width="50%" valign="top">
+
+**[Godot Farming Kit](https://github.com/misbah2121/godot-farming-kit)**<br>
+Add-on open source untuk Godot 4: sistem bertani lengkap yang bisa dipasang di game 2D mana pun. Cangkul, siram, tanam, musim, sprinkler, hujan, panen langka, dan simpan/muat. Gratis dengan lisensi MIT, dilengkapi demo dan 54 tes otomatis.<br><br>
+<img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white"/> <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white"/> <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[Dashboard Laporan Gangguan](https://github.com/misbah2121/dashboard-laporan-gangguan)**<br>
 Template dashboard monitoring gangguan dengan Google Apps Script dan Google Sheets. Gratis, tanpa server. [Coba demo](https://misbah2121.github.io/dashboard-laporan-gangguan/)<br>
