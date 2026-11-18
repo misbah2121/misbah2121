@@ -18,7 +18,28 @@ Saya suka membuat aplikasi mobile, web app, dan game.
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,nodejs,godot,git,github,vscode&perline=10" />
 </p>
 
-### 🚀 Proyek Unggulan
+### 🌾 Proyek Utama: [Modern Farm](https://github.com/misbah2121/ModernFarm)
+
+<table>
+<tr>
+<td width="40%"><a href="https://github.com/misbah2121/ModernFarm"><img src="https://raw.githubusercontent.com/misbah2121/ModernFarm/main/screenshots/cover.png" width="100%"/></a></td>
+<td>
+
+Game **farming & life-sim pixel art 2D** buatan sendiri dengan **Godot 4**, dikembangkan dalam 23 phase.
+
+🌱 16 tanaman + panen langka &nbsp;·&nbsp; 🐄 9 jenis ternak yang bisa beranak<br>
+🎣 Memancing &nbsp;·&nbsp; ⛏️ Menambang &nbsp;·&nbsp; 🍳 Memasak & kerajinan<br>
+🏘️ Desa, NPC, quest & kios pasar &nbsp;·&nbsp; 🚜 Traktor & pekerja farm<br>
+🌦️ Siang-malam, 4 musim & cuaca
+
+[![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://github.com/misbah2121/ModernFarm)
+[![Repo](https://img.shields.io/badge/Lihat_Repo-181717?style=flat-square&logo=github)](https://github.com/misbah2121/ModernFarm)
+
+</td>
+</tr>
+</table>
+
+### 🚀 Proyek Lainnya
 
 | Proyek | Deskripsi | Teknologi |
 |---|---|---|
