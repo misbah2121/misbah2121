@@ -48,12 +48,7 @@ Game **farming & life-sim pixel art 2D** buatan sendiri dengan **Godot 4**, dike
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=misbah2121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah2121&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misbah2121&theme=tokyonight&hide_border=true" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
 <p align="center">
