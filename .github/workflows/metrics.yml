@@ -21,7 +21,7 @@ jobs:
           committer_token: ${{ github.token }}
           user: misbah2121
           template: classic
-          config_display: large
+          config_display: columns
           config_timezone: Asia/Jakarta
           base: header, activity, community, repositories, metadata
 
