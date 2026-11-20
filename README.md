@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f43,100:2f81f7&height=170&section=header&text=Misbah%20Hunnasik&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20Game%20Developer&descSize=16&descAlignY=58" width="100%"/>
+<img src="assets/banner-sakura.gif" alt="Misbah Hunnasik - Mobile · Web · Game Developer" width="100%"/>
 
 <table width="100%">
 <tr>
