@@ -357,6 +357,16 @@ WING_DN = [(-2, 1), (-1, 0), (0, 0), (1, 0), (2, 1)]
 
 MIST = hexc("#f0c6da")
 
+# fireflies: drift on closed loops (integer frequencies keep the GIF seamless) and pulse their glow
+_fr = random.Random(99)
+FIREFLIES = [{
+    "x": _fr.uniform(40, 290), "y": _fr.uniform(42, 66),
+    "ax": _fr.uniform(3, 8), "ay": _fr.uniform(2, 5),
+    "m": _fr.choice([1, 2]), "n": _fr.choice([1, 2]), "pulse": _fr.choice([1, 2, 3]),
+    "p1": _fr.random(), "p2": _fr.random(), "p3": _fr.random(),
+} for _ in range(22)]
+FF_CORE, FF_GLOW, FF_HALO = hexc("#fffbd0"), hexc("#f2ec8a"), hexc("#c9d46a")
+
 
 def draw_dynamic(p, f, t):
     tau = 2 * math.pi
@@ -404,6 +414,20 @@ def draw_dynamic(p, f, t):
         tx = CAT_X + 7 + i * 0.55 + sway * (i / 5) ** 2 * 2.5
         ty = GROUND_Y - 1 - i * 0.95
         p[int(round(tx)), int(round(ty))] = CAT_COL["k"]
+    # fireflies (drawn before the pond, so the water reflects them too)
+    for ff in FIREFLIES:
+        x = int(round(ff["x"] + ff["ax"] * math.sin(tau * (t * ff["m"] + ff["p1"]))))
+        y = int(round(ff["y"] + ff["ay"] * math.sin(tau * (t * ff["n"] + ff["p2"]))))
+        glow = math.sin(tau * (t * ff["pulse"] + ff["p3"]))
+        if glow < -0.35 or not (1 <= x < W - 1 and 1 <= y < GROUND_Y):
+            continue
+        for dx, dy in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+            p[x + dx, y + dy] = lerp(p[x + dx, y + dy], FF_HALO, 0.85 if glow > 0.4 else 0.45)
+        if glow > 0.8:
+            for dx, dy in ((1, 1), (-1, -1), (1, -1), (-1, 1)):
+                if 0 <= x + dx < W and 0 <= y + dy < H:
+                    p[x + dx, y + dy] = lerp(p[x + dx, y + dy], FF_HALO, 0.35)
+        p[x, y] = FF_CORE if glow > 0.4 else FF_GLOW
 
 
 # ---------- pixel font ----------
